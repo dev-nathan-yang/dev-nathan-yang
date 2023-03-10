@@ -2,7 +2,10 @@
 - 👀 I’m interested in web/mobile/desktop development
 - 🌱 I’m currently learning Flutter/NextJS
 - 💞️ I’m looking to collaborate on small but interesting open source projects
-- 📫 Anything tech talk is welcomed, please email me nathan@nathany.me / dev.nathan.yang@gmail.com
+- 📫 Anything tech talk is welcomed, please email me 
+- nathan@nathany.me 
+- dev.nathan.yang@gmail.com
+- nathan@devorium.com.au
 
 <!---
 dev-nathan-yang/dev-nathan-yang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
